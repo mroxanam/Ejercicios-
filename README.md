@@ -1,5 +1,3 @@
-Ejercicios c#
-
 Ejercicios en C#
 
 
